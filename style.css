@@ -1,0 +1,17 @@
+.center {
+	text-align: center;
+}
+
+img {
+	width: 30%;
+	border-radius: 20px;
+}
+
+.podvucenNaslov {
+	text-decoration-line: underline;
+	text-decoration-color: salmon;
+}
+
+.drugaBoja {
+	color: salmon;
+}
